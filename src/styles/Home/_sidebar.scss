@@ -1,0 +1,26 @@
+@import '../abstracts/variables';
+.draw_header {
+    color: $color-black !important;
+    font-size: 1.5rem;
+}
+.draw_items {
+    margin-top: 0.3rem;
+    font-size: 1.2rem;
+    color: $color-black !important;
+    &:hover {
+        background-color:$hover-color ;
+    }
+       text-align: center;
+}
+.draw_container {
+    width: 100%;
+    border-right: solid $color-black 0.12rem;
+    height: 88vh;
+    .tog{
+        text-align: unset;
+        margin: 1.2rem 0.4rem;
+        border: none !important;
+        box-shadow: none !important;
+
+    }
+}

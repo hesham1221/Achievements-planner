@@ -1,0 +1,104 @@
+.navbar {
+  padding: 0.7rem 1.4rem;
+  border-bottom: solid #000 0.12rem;
+}
+
+.link {
+  color: #000 !important;
+  font-size: 1.2rem;
+}
+
+.link:hover {
+  background-color: #F2F3F5;
+}
+
+.nav-col {
+  width: 100%;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+.nav-col span {
+  margin-right: 1rem;
+  font-size: 1.2rem;
+}
+
+.photo-container {
+  max-width: 2.2rem;
+  max-height: 2.2rem;
+  cursor: pointer;
+}
+
+.photo {
+  margin-right: 0.3rem;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  width: 100%;
+  height: 100%;
+}
+
+.draw_header {
+  color: #000 !important;
+  font-size: 1.5rem;
+}
+
+.draw_items {
+  margin-top: 0.3rem;
+  font-size: 1.2rem;
+  color: #000 !important;
+  text-align: center;
+}
+
+.draw_items:hover {
+  background-color: #F2F3F5;
+}
+
+.draw_container {
+  width: 100%;
+  border-right: solid #000 0.12rem;
+  height: 88vh;
+}
+
+.draw_container .tog {
+  text-align: unset;
+  margin: 1.2rem 0.4rem;
+  border: none !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.draw_header {
+  color: #000 !important;
+  font-size: 1.5rem;
+}
+
+.draw_items {
+  margin-top: 0.3rem;
+  font-size: 1.2rem;
+  color: #000 !important;
+  text-align: center;
+}
+
+.draw_items:hover {
+  background-color: #F2F3F5;
+}
+
+.draw_container {
+  width: 100%;
+  border-right: solid #000 0.12rem;
+  height: 88vh;
+}
+
+.draw_container .tog {
+  text-align: unset;
+  margin: 1.2rem 0.4rem;
+  border: none !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.row {
+  width: 100%;
+}
+/*# sourceMappingURL=home.css.map */
